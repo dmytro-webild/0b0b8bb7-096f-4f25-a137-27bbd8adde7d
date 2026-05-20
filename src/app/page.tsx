@@ -68,7 +68,7 @@ export default function LandingPage() {
         },
       ]}
       buttonAnimation="slide-up"
-      imageSrc="http://img.b2bpic.net/free-photo/traditional-beautiful-building-moroccan-morocco_1203-5629.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/traditional-beautiful-building-moroccan-morocco_1203-5629.jpg?_wi=1"
     />
   </div>
 
@@ -91,7 +91,7 @@ export default function LandingPage() {
           title: "عميل سعيد",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/real-estate-concept-with-wooden-blocks-flat-lay-woman-making-house-model_176474-8288.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/real-estate-concept-with-wooden-blocks-flat-lay-woman-making-house-model_176474-8288.jpg?_wi=1"
       mediaAnimation="slide-up"
       metricsAnimation="slide-up"
     />
@@ -115,7 +115,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/indoor-objects-company-background-papers_1304-2624.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/traditional-beautiful-building-moroccan-morocco_1203-5629.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/traditional-beautiful-building-moroccan-morocco_1203-5629.jpg?_wi=2",
           imageAlt: "modern apartment interior algeria",
         },
         {
@@ -130,7 +130,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/house-model-compass-plan-background-real-estate-concept_1423-179.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/real-estate-concept-with-wooden-blocks-flat-lay-woman-making-house-model_176474-8288.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/real-estate-concept-with-wooden-blocks-flat-lay-woman-making-house-model_176474-8288.jpg?_wi=2",
           imageAlt: "modern apartment interior algeria",
         },
         {
@@ -145,7 +145,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/colorful-retro-landscape-vaporwave-style_23-2148980054.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-castle-interior-design_23-2151010548.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-castle-interior-design_23-2151010548.jpg?_wi=1",
           imageAlt: "modern apartment interior algeria",
         },
       ]}
@@ -166,7 +166,7 @@ export default function LandingPage() {
           name: "فيلا فاخرة - العاصمة",
           price: "١٥٠,٠٠٠,٠٠٠ دج",
           variant: "فيلا",
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-castle-interior-design_23-2151010548.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-castle-interior-design_23-2151010548.jpg?_wi=2",
         },
         {
           id: "2",
